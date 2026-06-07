@@ -1,0 +1,4 @@
+submodules*
+kscann/build
+kscann/data
+venv

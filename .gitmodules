@@ -1,0 +1,3 @@
+[submodule "submodules/google_scann"]
+	path = submodules/google_scann
+	url = https://github.com/NikitaSyatov/google-research

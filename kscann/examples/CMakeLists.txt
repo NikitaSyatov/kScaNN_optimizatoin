@@ -1,0 +1,2 @@
+add_executable(simple_search simple_search.cpp)
+target_link_libraries(simple_search kscann_lib)
